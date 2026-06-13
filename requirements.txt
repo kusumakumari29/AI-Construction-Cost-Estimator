@@ -1,6 +1,6 @@
-streamlit==1.45.1
-pandas==2.2.3
-scikit-learn==1.6.1
-joblib==1.4.2
-matplotlib==3.10.3
-reportlab==4.4.1
+streamlit
+pandas
+scikit-learn
+joblib
+matplotlib
+reportlab
