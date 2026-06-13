@@ -1,0 +1,16 @@
+Area,Floors,Material,Location,Type,Cost
+800,1,Basic,Rural,Residential,1600000
+1000,1,Standard,Urban,Residential,2400000
+1200,1,Premium,Urban,Residential,3200000
+1500,2,Standard,Urban,Residential,4200000
+1800,2,Premium,Urban,Residential,5500000
+2000,2,Premium,Urban,Commercial,7000000
+2200,3,Premium,Urban,Commercial,9000000
+2500,2,Standard,Rural,Commercial,6500000
+3000,3,Premium,Urban,Commercial,12000000
+1400,1,Basic,Rural,Residential,2300000
+1600,2,Standard,Rural,Residential,3800000
+2800,3,Premium,Rural,Commercial,9800000
+900,1,Basic,Urban,Residential,2000000
+1300,2,Standard,Urban,Residential,3900000
+1700,2,Premium,Rural,Residential,5100000
